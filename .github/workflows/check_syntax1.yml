@@ -1,4 +1,4 @@
-name: check syntax
+name: check syntax1
 
 on:
   push:
